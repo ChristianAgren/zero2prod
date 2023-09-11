@@ -1,2 +1,1 @@
-testing
-1212
+Learning Rust by doing the good ol' zero2prod
